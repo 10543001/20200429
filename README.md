@@ -21,7 +21,6 @@ Syntax highlighted code block
 1. Numbered
 2. List
 today is 2020/04/29 20200429.
-幹你娘.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
